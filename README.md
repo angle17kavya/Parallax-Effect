@@ -1,7 +1,7 @@
 # Parallax-Effect
 
 # Preview
-[Parallax-Effect](https://github.com/k-agg17/Parallax-Effect/blob/main/parallax.gif)
+![Parallax-Effect](https://github.com/k-agg17/Parallax-Effect/blob/main/parallax.gif)
 # Features
 Responsive design for various screen sizes.<br/>
 Smooth parallax scrolling effect.<br/>
